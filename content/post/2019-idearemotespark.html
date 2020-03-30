@@ -1,0 +1,72 @@
+---
+title: IDEA远程访问Spark直接运行代码的尝试
+author: 小冠
+date: '2019-05-11'
+slug: 2019-idearemotespark
+categories:
+  - 我码故我在
+tags:
+  - spark
+  - Scala
+  - idea
+banner: 'banners/idea.png'
+description: '有所得，但只成功了一半'
+images: []
+menu: ''
+---
+
+
+
+<!--more-->
+<p>直接的集成环境IDEA上连接Spark，运行代码，不用再在服务器上执行代码，
+美好的想法，但只成功了一半</p>
+<div id="3" class="section level2">
+<h2>1.远程连接的3关</h2>
+<p>写好代码：</p>
+<pre class="scala"><code>val sparkurl=&quot;spark://guan-pc:7077&quot;
+val spark = SparkSession.builder.master(sparkurl).appName(&quot;start&quot;).getOrCreate()</code></pre>
+<div class="section level3">
+<h3>1.1 代码工程配置正确</h3>
+<p>运行错误先是Class Not Found，是工程配置的版本与Spark、Scala不匹配的原因，先要将sbt中的</p>
+<pre class="sbt"><code>libraryDependencies += &quot;org.apache.spark&quot; % &quot;spark-streaming_2.12&quot; % &quot;2.4.2&quot; % &quot;provided&quot;</code></pre>
+<p>的<strong>provided</strong>部分删除，因为程序是要在本地运行的</p>
+<blockquote>
+<p>然后就是这两个版本了，Spark的版本好办，安装的是什么就写什么。
+中间的Scala内核版本就要麻烦点，不要想当然，可靠的办法是去Spark安装目录的<strong>jars</strong>下面看，
+Spark2.4.2用的内核版本是2.12，但2.4.3又回到了2.11，想当然会错</p>
+</blockquote>
+<div class="figure">
+<img src="/banners/idea1.png" alt="window下如此，Linux同" />
+<p class="caption">window下如此，Linux同</p>
+</div>
+</div>
+<div id="hadoop" class="section level3">
+<h3>1.2 HADOOP文件</h3>
+<p>之后会提示个找不到HADOOP文件<strong>winutils.exe</strong>，下一个HADOOP的支持目录</p>
+</div>
+<div id="spark" class="section level3">
+<h3>1.3 启动Spark的大坑</h3>
+<p>似乎万事具备了，但实际上就是连不上，还重新检查了Linux端口，无论怎么弄，
+网页没问题，但代码就是连不上，终于找到了大神的解决方案，原来是Spark的启动方式，
+启动时我一般都用最简单的命令</p>
+<pre class="bash"><code>start-all.sh </code></pre>
+<p>但要在windows上远程连接，要用指明IP的方式启动</p>
+<pre class="bash"><code>start-master.sh -h 192.168.0.109
+start-slave.sh spark://192.168.0.109:7077</code></pre>
+<p>终于连接好了，准备开始读数据
+## 2.读文件的方法
+还不知道怎么解决，因为代码在本地执行，而Spark在服务器，
+Spark无法读取本地的文件，代码如何才能告诉Spark读的是服务器文件呢？
+试了</p>
+<pre class="bash"><code>spark.read.csv(&quot;file:///home/guan/data/dat.csv&quot;)</code></pre>
+<p>还是本地的，难道一定要建个HDFS才行吗？
+有待继续研究</p>
+</div>
+</div>
+<div id="windowspark" class="section level2">
+<h2>3 window上安装spark</h2>
+<p>在windows上安装Spark没有什么不同，但启动是个问题，start-master，start-all之类的命令在windows上不能用
+要调用类的方式启动</p>
+<pre class="bash"><code>spark-class org.apache.spark.deploy.master.Master
+spark-class org.apache.spark.deploy.worker.Worker spark://ip:port</code></pre>
+</div>

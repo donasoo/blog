@@ -1,0 +1,218 @@
+---
+title: 美军现役上将列表
+author: 小冠
+date: '2019-08-16'
+slug: usonduty4s
+categories:
+  - 我集故我在
+tags:
+  - 美军
+  - 上将
+banner: '/banners/4s.jpg'
+description: '美军现役上将列表'
+images: []
+menu: ''
+---
+
+<!--more-->
+更新时间： `r format(Sys.time(), "%Y年 %b %d日 %a %H:%M:%S ")`
+
+# 联合职位
+## 参谋长联席会议
+
+| 职务 | 人物 | 将官履历 | 背景 |
+| :------: |:------:|:------|:------|
+|![主席][CJCS]|![马克·米莱][Milley]| 上将：现职2019.10<br>上将：陆军参谋长2015.8<br>上将：陆军部队司令部司令2014.8<br>中将：第3军军长2012.12<br>少将：第10山地师师长2011.11<br> | 1958年6月20日<br>1980屇，ROTC<br>普林斯顿，政治学<br>步兵<br>师长：第10山地师<br>旅长：第10山地师2旅<br>营长：第2步兵师506团1营<br>参谋：作训 | 
+|![副主席][VCJCS]| ![约翰·海腾][Hyten] | 上将：现职2019.11<br>上将：战略司令部司令2016.11<br>上将：空军空间司令部司令2014.8<br>中将：空军空间司令部副司令2012.5<br>少将：负责采办的助理空军部长空间项目主管2010.9 <br> | 1981年，国防生<br>哈佛大学，工程与应用科学<br>联队长：第50空间联队<br>中队长：第6空间业务中队 | 
+
+## 其他联合职位
+| 职务 | 人物 | 将官履历 | 背景 |
+|:------:|:------:|:------|:------|
+|![国民警卫局局长][NGB]|![约瑟夫·伦杰尔][Lengyel]| 上将：现职2016.8<br>中将：副局长2012.8<br>少将：中央司令部驻开罗军事协调代表办公室主任2011.4|  1962年9月25日<br>1981届，国防生<br>北德克萨斯大学，化学<br>战斗机飞行员<br>联队长：<br>中队长：第182战机中队<br>参谋： | 
+
+
+## 一体化作战司令部
+
+| 职务 | 人物 | 将官履历 | 背景 |
+|:------:|:------:|:------|:------|
+|![非洲司令部司令][USAFRICOM]|![斯蒂芬·汤森德][Townsend]| 上将：现职2019.7<br>上将：陆军条令与训练司令部司令2014.10<br>中将：第18空降军司令2013.2<br>少将：第10山地师师长2012.12<br>准将：联合参谋部阿巴协调主任2011<br>准将：第101空降师副师长2009|  1959年<br>1982届，国防生<br>北佐治亚学院，心理学<br>空降兵<br>师长：第10山地师<br>旅长：第2步兵师3旅<br>营长：第10山地师31团4营<br>参谋：作训 | 
+|![中央司令部司令][USCENTCOM]|![肯尼思·麦肯齐][McKenzie]| 上将：现职2018.9<br>中将：联合参谋部主任2017.6<br>中将：联合参谋部战略规划部长2015<br>中将：陆战队中央司令部司令<br>少将：中央司令部战略计划部长|1957年<br>1979届，国防生<br>要塞大学<br>步兵<br>师长：无<br>团长：第22远征团<br>营长：2师6团1营<br>参谋：秘书 | 
+|![网战司令部司令、国家安全局局长][USCYBERCOM]|![保尔·中曾根][Nakasone]| 上将：现职2018.5<br>中将：陆军网战司令部司令2016.10<br>少将：网战司令部国家总队司令2015<br>少将：网战司令部副司令<br>准将：联合参谋部情报部长<br>准将：驻阿美军情报部长|1963年11月9日<br>1986届，国防生<br>圣约翰大学<br>情报<br>师长：<br>团长：<br>营长<br>参谋：情报 | 
+|![欧洲司令部司令、盟军最高统帅部司令][USEUCOM]|![托德·沃尔特斯][Wolters]| 上将：现职2019<br>上将：驻欧空军司令2016.8<br>中将：联合参谋部作战部长2015.7<br>中将：空军作战副参谋长2014.12<br>中将：第12航空队司令2013.9<br>少将：空军立法联络主任2012.6<br>少将：第9空天特遣队司令2011.5<br>准将：空间司令部作战部长<br>准将：中央司令部移交司令部副司令|  1961年<br>1982届，空军学院<br>战斗机飞行员<br>联队长：第47飞训联队、  第325战机联队<br>中队长：19战机中队<br>参谋：作训 | 
+|![北方司令部司令、北美防总司令][USNORTHCOM]|![特伦斯·奥肖内西][O%27Shaughnessy]| 上将：现职2018.5<br>上将：舰队司令部司令2014.12<br>中将：第七航空队司令2014.12<br>少将：太平洋司令部作战部长2013.8<br>准将：联合参谋部战略规划部亚洲事务副主任2012.4<br>准将：第57联队长2010.7<br>准将：第13航空队副司令2009.8|1964年<br>1986届，空军学院<br>航空工程，优等生<br>战斗机飞行员<br>联队长：第57联队、第35战机联队<br>中队长：510战机中队<br>参谋：作训 |
+|![印太司令部司令][INDOPACOM]|![菲利普·戴维森][Davidson]| 上将：现职2018.5<br>上将：太平洋空军司令2016.7<br>中将：第六舰队司令2013.10<br>少将：舰队司令部航海长2012 <br>准将：阿巴军事参赞2011<br>准将：第8航母编队司令2010<br>准将：联合参谋部战略规划部副部长2007<br>准将：第13航空队副司令2009.8|1960年<br>1982届，海军学院<br>水面舰艇<br>战队司令：第8航母战队<br>舰长：葛底斯堡号巡洋舰<br>参谋： |
+|![南方司令部司令][USSOUTHCOM]|![克雷格·法勒][Faller]| 上将：现职2018.11<br>中将：国防部长军事助理2018.6<br>少将：国防部长军事助理2017.1<br>准将：中央司令部作战部长<br>准将：第3航母编队司令|1983届，海军学院<br>系统工程<br>水面舰艇<br>战队司令：第3航母战队<br>舰长：斯特西姆号驱逐舰、希洛号巡洋舰<br>参谋： |
+|![特种作战司令部司令][USSOCOM]|![理查德·克拉克][Clarke]| 上将：现职2019.3<br>中将：联合参谋部战略规划部长2017.8<br>少将：联合参谋部战略规划副部长2016.8<br>少将：第82空降师师长2014.10|1962年7月23日<br> 1961年<br>1984届，西点军校<br>空降兵、特种兵<br>师长：第82空降师<br>旅长：第75突击团、西点学员大队<br>营长：第82空降师504团3营<br>参谋：<br>陆军家庭，在德国出生 | 
+|![战略司令部司令][USSTRATCOM]|![查尔斯·理查德][Richard]| 上将：现职2019.11<br>中将：海军潜艇部队司令2018.8<br>中将：战略司令部副司令2016.9<br>少将：战略司令部副潜艇机能司令部副司令 |  1983届，海军学院<br>系统工程<br>潜艇<br>战队司令：第10潜艇攻击群<br>舰长：帕奇号潜艇（SSN-683），美国研究潜艇1号<br>参谋： |
+|![运输司令部司令][USTRANSCOM]|![斯蒂芬·莱昂斯][Lyons]| 上将：现职2018.8<br>中将：联合参谋部后勤部长2017.9<br>中将：运输司令部副司令2015.9<br>少将：陆军合同武器支援司令部司令2014.8|  1961年<br>1983届，国防生<br>罗切斯特技术学院，犯罪学<br>军械<br>师长：无<br>旅长：第82空降师保障旅<br>营长：第703支援营<br>参谋：后勤| 
+|![太空司令部司令][USSPACECOM]|![约翰·雷蒙德][Raymond]| 上将：现职2019.12<br>上将：兼美国空间司令部司令<br>2019.8上将：现职2016.10<br>中将：空军作战计划与需求副参谋长（A3）2015.8<br>中将：第14航空队司令2014.1<br>少将：战略司令部战略计划部长2012.7|出生：弗吉尼亚，亚里山大<br>1984届，国防生<br>克莱姆森大学，工商管理<br>空间领域<br>联队长：第21空间联队<br>中队长：第21空间联队5中队<br>参谋：规划| 
+
+## 作战部队
+| 职务 | 人物 | 将官履历 | 背景 |
+|:------:|:------:|:------|:------|
+|![坚定支援任务司令、驻阿美军司令][RS]|![奥斯汀·米勒][Austin_Miller]| 上将：现职2018.9<br>中将：联合特种作战司令部司令2016.3<br>少将：陆军卓越机动中心司令2014.6<br>少将：驻阿富汗特种作战司令2013.6   <br>少将：特种作战司令部副司令助理2012.6 |1961年5月15日<br>1983届，西点<br>步兵、特种兵<br>师长：无<br>旅长：三角洲<br>营长：三角洲<br>参谋： | 
+|![美韩联军司令、驻韩美军司令][USFK]|![罗伯特·艾布拉姆斯][Abrams]| 上将：现职2018.11<br>上将：陆军部队司令部司令2015<br>中将：国防部长军事助理2012<br>少将：第3步兵师师长2011.5|1960年11月18日<br>1982届，西点<br>装甲兵<br>师长：第3步兵师<br>旅长：第1骑兵师1旅<br>营长：第1骑兵师8团1营<br>参谋：作训 | 
+
+# 陆军
+
+| 职务 | 人物 | 将官履历 | 背景 |
+|:------:|:------:|:------|:------|
+|![陆军参谋长][CSA]|![詹姆斯·麦康维尔][McConville]| 上将：现职2019.8<br>上将：陆军副参谋长2017.6<br>中将：陆军人事副参谋长2014.8<br>少将：第101空降师师长2011.8<br>少将：陆军立法联络办公室主任2010.1|1959年4月14日<br>1981届，西点<br>陆航<br>师长：第101空降师<br>旅长：第1骑兵师4旅<br>营长：第101空降师17团4营<br>参谋：作训 | 
+|![陆军副参谋长][VCSA]|![约瑟夫·马丁][Martin]| 上将：现职2019.7<br>中将：陆军参谋部主任2018.5<br>少将：第1步兵师师长2016.9|1962年12月29日<br>1986届，西点<br>装甲兵<br>师长：第1步兵师<br>旅长：第1步兵师2旅<br>营长：第1装甲师37团1营<br>参谋：| 
+|![部队司令部司令][FORSCOM]|![迈克尔·加雷特][Garrett]| 上将：现职2019.3<br>中将：中央陆军司令2015.11<br>少将：阿拉斯加陆军司令2012.5|1961年<br>1984届，<br>哈维大学<br>空降兵<br>师长：<br>旅长：第25步兵师4旅<br>营长：第82空降师325团3营<br>参谋： |
+|![装备司令部司令][AMC]|![古斯塔夫·佩纳][Perna]| 上将：现职2016.9<br>中将：陆军后勤副参谋长2014.9<br>少将：装备司令部副参谋长|1960年4月5日<br>1979届，<br>福吉谷军事学院<br>装备<br>师长：<br>旅长：第4保障旅<br>营长：第4步兵师3旅64保障营<br>参谋： |
+|![训练与条令司令部司令][TRADOC]|![保尔·方克二世][Funk]| 上将：现职2019.6<br>中将：第三军司令2017.4<br>少将：陆军作战助理参谋长2015.8<br>少将：第1步兵师师长2013.5|1962年<br>1984届，<br>蒙大拿州立大學，演讲沟通<br>装甲兵<br>师长：第1步兵师<br>旅长：第1骑兵师1旅<br>营长：第1骑兵师7团1营<br>参谋： |
+|![太平洋陆军司令][USARPAC]|![保罗·拉卡梅拉][LaCamera）]| 上将：现职2019.11<br>中将：第十八空降军司令2018.1<br>少将：第十八空降军副司令2016.7<br>少将：驻伊安全协调办公室主任2015.5<br>少将：第4步兵师师长2014.3  |出生： 马萨诸塞，西伍德<br>1963年9月4日<br>1985届，西点<br>步兵<br>师长：第4步兵师<br>旅长：第75突击团<br>营长：第10山地师87团1营<br>参谋：作训 |
+|![未来司令部司令][AFC]|![约翰·穆雷][Murray]| 上将：现职2018.8<br>中将：陆军资源需求副参谋长2015.9<br>少将：第3步兵师师长2013.9|1960年<br>1982届，<br>俄亥俄州立大学<br>步兵<br>师长：第3步兵师  <br>旅长：第1骑兵师3旅<br>营长：第1步兵师18团1营<br>参谋：作训|
+
+# 海军
+
+| 职务 | 人物 | 将官履历 | 背景 |
+|:------:|:------:|:------|:------|
+|![海军作战部长][CNO]|![迈克尔·吉尔迪][Gilday]| 上将：现职2019.8<br>中将：联合参谋部主任2019.2<br>中将：联合参谋部作战部长2018.8<br>中将：第十舰队司令&赛博司令部司令2016.7<br>少将：美军网战司令部作战部长<br>少将：北约海军部队参谋长|1960年<br>1984届，海军学院<br>水面舰艇<br>战队：第8航母战队<br>艇长：导弹驱逐舰希金斯号(DDG-76)、本福德号(DDG-65)<br>参谋：作战、人事、秘书| 
+|![副海军作战部长][VCNO]|![罗伯特·博克][Burke]| 上将：现职2019.6<br>中将：人事训练教育副海军作战部长2016.6|<br>1982届，<br>西密歇根大学，电子工程<br>潜艇<br>战队：第8潜艇战队<br>艇长：<br>参谋：| 
+|![舰队司令部司令][USFF]|![克里斯·格雷迪][Grady]| 上将：现职2018.5<br>中将：第六舰队司令2016.10<br>少将：大西洋水面部队司令|<br>1984届，<br>圣母大学，电子工程<br>水面舰艇<br>战队：第1航母战队<br>艇长：<br>参谋：| 
+|![驻欧非海军司令][USNAVEUR-NAVAF]|![詹姆斯·福戈三世][Foggo]| 上将：现职2017.10<br>中将：海军参谋部主任2016.11<br>中将：第六舰队司令2014.12 <br>少将：助理副海军作战部长|1959年9月2日<br>1981届，海军学院<br>潜艇<br>战队：<br>艇长：<br>参谋：| 
+|![太平洋舰队司令][USPACFLT]|![约翰·奥京里诺][Aquilino]| 上将：现职2018.5<br>中将：第五舰队司令2017.9<br>中将：作战计划战略副海军作战部长（N3/5）2015.8<br>少将：太平洋舰队海事主任<br>少将：联合参谋部作战副部长|<br>1984届，海军学院，物理学<br>海航<br>战队：第2航母战队<br>艇长：<br>参谋：| 
+|![核动力主任][NR]|![小詹姆斯·卡德维尔][Caldwell]| 上将：现职2015.8<br>中将：海军参谋部主任2015<br>中将：海军监察长2013.9<br>少将：太平洋舰队潜艇部队司令  |1959年3月4日<br>1981届，海军学院，物理学<br>潜艇<br>战队：第9潜艇战队<br>艇长：<br>参谋：| 
+
+
+# 海军陆战队
+
+| 职务 | 人物 | 将官履历 | 背景 |
+|:------:|:------:|:------|:------|
+|![海军陆战队司令][CMC]|![大卫·伯杰][Berger]| 上将：现职2019.7<br>中将：分管战斗发展整合的副司令2018.8<br>中将：太平洋陆战队司令2016.8<br>中将：第一远征军司令2014.7<br>少将：空陆战斗中心司令2013.2<br>少将：第1陆战师前锋师长|1959年12月21日<br>1981届，国防生<br>杜兰大学<br>步兵<br>师长：无<br>团长：陆战2师8团<br>营长：陆战2师8团3营<br>参谋：规划| 
+|![海军陆战队副司令][ACMC]|![加里·托马斯][Thomas]| 上将：现职2018.10<br>中将：陆战队分管规划资源的副司令2016.8<br>少将：第2陆航联队联队长|<br>1984届，国防生<br>德州大学<br>陆航<br>师长：第2陆航联队<br>团长：空陆战斗中心武器战术团<br>营长：第3陆航联队11大队323中队<br>参谋：| 
+
+# 空军
+
+| 职务 | 人物 | 将官履历 | 背景 |
+|:------:|:------:|:------|:------|
+|![空军参谋长][CSAF]|![大卫·戈德费因][Goldfein]| 上将：现职2016.7<br>上将：空军第一副参谋长2015.8<br>中将：联合参谋部主任2013.8<br>中将：中央空军司令2011.8<br>少将：空战司令部作战部长2009.8  |<br>1983届，空军学院，哲学<br>战斗机飞行员<br>联队长：第52战机联队，第49战机联队<br>中队长：第31战机联队555中队<br>参谋：| 
+|![空军副参谋长][VCSAF]|![斯蒂芬·威尔逊][Wilson]| 上将：现职2016.6<br>中将：战略司令部副司令2015.7<br>中将：空军全球打击司令部司令2013.10<br>少将：第8航空队司令2011.6|1959年<br>1981届，国防生<br>德州农工大学，宇航工程<br>轰炸机飞行员<br>联队长：第14飞训联队，第379远征联队<br>中队长：无<br>参谋：| 
+|![空战司令部司令][ACC]|![詹姆斯·福尔摩斯][Holmes]| 上将：现职2017.3<br>中将：空军战略计划需求副参谋长2014.8<br>中将：教育训练司令部副司令2013.8<br>少将：空军作战计划需求的助理副参谋长2012.1<br>少将：空军战略计划部长2011.8|1957年4月12日<br>1981届，国防生<br>田纳西大学，电子工程<br>战斗机飞行员<br>联队长：第4战机联队、第455远征联队<br>中队长：第1联队27中队<br>参谋：规划| 
+|![全球打击司令部司令][AFGSC]|![蒂莫西·雷][Timothy_Ray]| 上将：现职2018.8<br>中将：欧洲司令部副司令2016.10<br>中将：第3航空队司令2015.7<br>少将：空军采办助理部长全球力量主任2014.2|<br>1984届，空军学院，人因工程<br>田纳西大学，电子工程<br>轰炸机运输机飞行员<br>联队长：第7轰炸联队<br>中队长：第2轰炸联队96中队<br>参谋：作训| 
+|![装备司令部司令][AFMC]|![小阿诺德·邦奇][BUNCH]| 上将：现职2019.5<br>中将：空军采办助理部长军事帮办2015.6<br>少将：空军测试中心司令2013.8|<br>1984届，空军学院，土木工程<br>田纳西大学，电子工程<br>试飞员<br>联队长：第412测试联队<br>中队长：第412测试联队419中队<br>参谋：| 
+|![机动司令部司令][AFAMC]|![玛丽安妮·米勒][Maryanne_Miller]| 上将：现职2018.9<br>中将：预备役空军局长2016.7<br>少将：预备役空军副局长2013.10|<br>1981届，国防生<br>俄亥俄州立大学，刑事司法<br>运输机、加油机飞行员<br>联队长：第932空运联队、第349机动联队<br>中队长：无<br>参谋：| 
+|![太平洋空军司令][PACAF]|![小查尔斯·布朗][Charles_Brown]| 上将：现职2018.7<br>中将：中央司令部副司令2016.7<br>中将：中央空军司令2015.6<br>少将：驻欧空军作战部长2014.3|1962<br>1984届，空军学院<br>多机种飞行员<br>联队长：第8战机联队、第31战机联队<br>中队长：20战机联队78中队<br>参谋：| 
+|![驻欧非空军司令][USAFE]|![杰弗里·哈里吉安][Harrigian]| 上将：现职2019.5<br>中将：驻欧非空军副司令2018.10<br>中将：中央空军司令2016.7<br>少将：空军F35综合办主任2015.4<br>少将：空军作战副参谋长助理2014.8|1962<br>1985届，空军学，院政治学<br>战斗机、无人机飞行员<br>联队长：第49战机联队<br>中队长：第325战机联队43中队<br>参谋：| 
+
+# 天军
+
+|![天军参谋长][USSF]|![约翰·雷蒙德][Raymond]| 上将：现职2019.12<br>上将：兼美国空间司令部司令<br>2019.8上将：现职2016.10<br>中将：空军作战计划与需求副参谋长（A3）2015.8<br>中将：第14航空队司令2014.1<br>少将：战略司令部战略计划部长2012.7|出生：弗吉尼亚，亚里山大<br>1984届，国防生<br>克莱姆森大学，工商管理<br>空间领域<br>联队长：第21空间联队<br>中队长：第21空间联队5中队<br>参谋：规划| 
+
+
+# 海岸警卫队
+
+| 职务 | 人物 | 将官履历 | 背景 |
+|:------:|:------:|:------|:------|
+|![海岸警卫队司令][CCG]|![卡尔·舒尔茨][Schultz]||| 
+|![海岸警卫队副司令][VCCG]|![查尔斯·雷][Charles_Ray]||| 
+
+
+# 公共卫生局军官团
+| 职务 | 人物 | 将官履历 | 背景 |
+|:------:|:------:|:------|:------|
+|![卫生及公共服务部助理部长][ASH]|![布雷特·吉拉德][Giroir]||| 
+
+# 拟任清单
+| 拟任职务 | 人物 | 将官履历 | 背景 |
+|:------:|:------:|:------|:------|
+|![陆军装备司令部司令][AMC]|![爱德华·达利][Daly]|<br>空间司令部司令2016.10<br>|<br>6月27日国会通过<br>| 
+|![未知][未知]|![罗伯特·博克][Burke]|<br>副海军作战部长2018.1<br>|<br>6月27日国会通过<br>| 
+|![空军参谋长][CSAF]|![小查尔斯·布朗][Charles_Brown]|<br>太平洋空军司令2018.7<br>|<br>7月25日国会通过<br>| 
+
+
+
+[CJCS]: https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_the_Chairman_of_the_US_Joint_Chiefs_of_Staff.svg {width=120px}
+[VCJCS]: https://upload.wikimedia.org/wikipedia/commons/c/ce/VJCSflag.svg {width=120px}
+[USAFRICOM]: https://upload.wikimedia.org/wikipedia/commons/2/26/Seal_of_the_United_States_Africa_Command.svg {width=120px}
+[USCENTCOM]: https://upload.wikimedia.org/wikipedia/commons/e/e8/Seal_of_the_United_States_Central_Command.png {width=120px}
+[USCYBERCOM]: https://upload.wikimedia.org/wikipedia/commons/7/79/Seal_of_the_United_States_Cyber_Command.png {width=120px}
+[USEUCOM]: https://upload.wikimedia.org/wikipedia/commons/d/dc/USEUCOM.svg {width=120px}
+[USNORTHCOM]: https://upload.wikimedia.org/wikipedia/commons/4/4d/Seal_of_the_United_States_Northern_Command.png {width=120px}
+[INDOPACOM]: https://upload.wikimedia.org/wikipedia/commons/1/18/INDOPACOM_Emblem_2018.png {width=120px}
+[USSOUTHCOM]: https://upload.wikimedia.org/wikipedia/commons/7/76/Seal_of_the_United_States_Southern_Command.svg {width=120px}
+[USSOCOM]: https://upload.wikimedia.org/wikipedia/commons/1/10/United_States_Special_Operations_Command_Insignia.svg {width=120px}
+[USSTRATCOM]: https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_the_United_States_Strategic_Command.svg {width=120px}
+[USTRANSCOM]: https://upload.wikimedia.org/wikipedia/commons/9/96/US-TRANSCOM-Emblem.svg {width=120px}
+[USSPACECOM]: https://upload.wikimedia.org/wikipedia/commons/f/ff/United_States_Space_Command_emblem_2019.png {width=120px}
+[NGB]: https://upload.wikimedia.org/wikipedia/commons/d/de/Chief%2C_National_Guard_Bureau_Flag_%282008%29.jpg {width=120px}
+[RS]: https://upload.wikimedia.org/wikipedia/commons/c/ce/Resolute_Support.svg {width=120px}
+[USFK]: https://upload.wikimedia.org/wikipedia/commons/b/bd/USFK_Logo.svg {width=120px}
+[CSA]: https://upload.wikimedia.org/wikipedia/commons/3/37/Flag_of_the_Chief_of_Staff_of_the_United_States_Army.svg {width=120px}
+[VCSA]: https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_the_Vice_Chief_of_Staff_of_the_United_States_Army.svg {width=120px}
+[AMC]: https://upload.wikimedia.org/wikipedia/commons/a/ae/AMC_shoulder_insignia.svg {width=120px}
+[USARPAC]: https://upload.wikimedia.org/wikipedia/commons/1/1e/USARPAC_insignia.svg {width=120px}
+[FORSCOM]: https://upload.wikimedia.org/wikipedia/commons/0/03/United_States_Army_Forces_Command_SSI.svg {width=120px}
+[TRADOC]: https://upload.wikimedia.org/wikipedia/commons/7/79/TRADOC_patch.svg {width=120px}
+[AFC]: https://upload.wikimedia.org/wikipedia/commons/f/fa/Army_Futures_Command_SSI.png {width=120px}
+[CNO]: https://upload.wikimedia.org/wikipedia/commons/d/d6/Flag_of_the_United_States_Chief_of_Naval_Operations.svg {width=120px}
+[VCNO]: https://upload.wikimedia.org/wikipedia/commons/3/3b/Flag_of_the_United_States_Vice_Chief_of_Naval_Operations.svg {width=120px}
+[USNAVEUR-NAVAF]: https://upload.wikimedia.org/wikipedia/commons/8/84/Naval_Forces_Europe_and_Naval_Forces_Africa_group_logo.gif {width=120px}
+[NR]: https://upload.wikimedia.org/wikipedia/commons/5/5f/NR_LOGO.jpg {width=120px}
+[USFF]: https://upload.wikimedia.org/wikipedia/commons/7/74/Seal_of_the_Commander_of_the_United_States_Fleet_Forces_Command.png {width=120px}
+[USPACFLT]: https://upload.wikimedia.org/wikipedia/commons/5/59/Seal_of_the_Commander_of_the_United_States_Pacific_Fleet.svg {width=120px}
+[ACMC]: https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_the_Assistant_Commandant_of_the_Marine_Corps.jpg {width=120px}
+[CMC]: https://upload.wikimedia.org/wikipedia/commons/e/e9/Flag_of_the_Commandant_of_the_United_States_Marine_Corps.svg {width=120px}
+[CSAF]: https://upload.wikimedia.org/wikipedia/commons/a/a0/Seal_of_Chief_of_Staff_of_USAF.svg {width=120px}
+[VCSAF]: https://upload.wikimedia.org/wikipedia/commons/d/d8/Flag_of_the_Vice_Chief_of_Staff_of_the_Air_Force.svg {width=120px}
+[ACC]: https://upload.wikimedia.org/wikipedia/commons/7/78/ACC_Shield.svg {width=120px}
+[AFGSC]: https://upload.wikimedia.org/wikipedia/commons/1/1c/Air_Force_Global_Strike_Command.svg {width=120px}
+[AFSPC]: https://upload.wikimedia.org/wikipedia/commons/9/94/Air_Force_Space_Command_Logo.svg {width=120px}
+[AFAMC]: https://upload.wikimedia.org/wikipedia/commons/9/9b/Air_Mobility_Command.svg {width=120px}
+[USAFE]: https://upload.wikimedia.org/wikipedia/commons/5/53/United_States_Air_Forces_in_Europe.png {width=120px}
+[PACAF]: https://upload.wikimedia.org/wikipedia/commons/e/e5/Pacific_Air_Forces.png {width=120px}
+[AFMC]: https://upload.wikimedia.org/wikipedia/commons/f/f8/Air_Force_Materiel_Command.png {width=120px}
+[CCG]: https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Commandant_of_the_United_States_Coast_Guard.svg {width=120px}
+[VCCG]: https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_the_Vice_Commandant_of_the_United_States_Coast_Guard.png {width=120px}
+[ASH]: https://upload.wikimedia.org/wikipedia/commons/a/ac/United_States_Public_Health_Service_%28seal%29.svg {width=120px}
+[USSF]:https://upload.wikimedia.org/wikipedia/commons/2/29/Seal_of_the_United_States_Space_Force.svg {width=120px}
+
+[Milley]: https://media.defense.gov/2019/Sep/30/2002188566/-1/-1/0/190926-A-SS368-0006Y.JPG {width=200px}
+[Townsend]: https://upload.wikimedia.org/wikipedia/commons/1/1f/Townsend_Africom.jpg {width=200px}
+[McKenzie]: https://upload.wikimedia.org/wikipedia/commons/4/4a/General_Kenneth_F._McKenzie%2C_Jr_%28USCENTCOM%29.jpg {width=200px}
+[Nakasone]: https://upload.wikimedia.org/wikipedia/commons/1/1c/General_Paul_M._Nakasone_%28NSA%29.jpg {width=200px}
+[Wolters]: https://upload.wikimedia.org/wikipedia/commons/b/b8/Gen._Tod_D._Wolters_EUCOM.jpg {width=200px}
+[O%27Shaughnessy]: https://upload.wikimedia.org/wikipedia/commons/6/62/Terrence_J._O%27Shaughnessy_NORAD.jpg {width=200px}
+[Davidson]: https://upload.wikimedia.org/wikipedia/commons/b/b8/Davidson_PACOM.jpg {width=200px}
+[Faller]: https://upload.wikimedia.org/wikipedia/commons/e/e0/Faller_at_SOUTHCOM.jpg {width=200px}
+[Clarke]: https://upload.wikimedia.org/wikipedia/commons/c/c4/Clarke_USSOCOM.jpg {width=200px}
+[Richard]: https://media.defense.gov/2016/Oct/18/2001649355/-1/-1/0/161018-D-AT012-001.JPG {width=200px}
+[Lyons]: https://upload.wikimedia.org/wikipedia/commons/d/d1/Gen._Stephen_R._Lyons.jpg {width=200px}
+[Lengyel]: https://upload.wikimedia.org/wikipedia/commons/d/d9/Gen_Lengyel_%282016_4-Star_Photo%29.jpg {width=200px}
+[Austin_Miller]: https://upload.wikimedia.org/wikipedia/commons/b/be/LTG_Austin_Miller_Official_DA_Photo.jpg {width=200px}
+[Abrams]: https://upload.wikimedia.org/wikipedia/commons/f/f1/Gen._Robert_B._Abrams.jpg {width=200px}
+[McConville]: https://upload.wikimedia.org/wikipedia/commons/4/43/McConville_as_CSA.jpg {width=200px}
+[Martin]: https://upload.wikimedia.org/wikipedia/commons/b/b1/Gen_Joseph_M_Martin_37th_VCSA_%281%29.jpg {width=200px}
+[Garrett]: https://upload.wikimedia.org/wikipedia/commons/2/2e/Gen._Michael_X._Garrett.jpg {width=200px}
+[Murray]: https://upload.wikimedia.org/wikipedia/commons/2/27/Gen._John_M._Murray.jpg {width=200px}
+[Perna]: https://upload.wikimedia.org/wikipedia/commons/5/5c/Perna_CG_AMC_2016.jpg {width=200px}
+[Robert_Brown]: https://upload.wikimedia.org/wikipedia/commons/b/bf/Brown_USARPAC.jpg {width=200px}
+[Funk]: https://upload.wikimedia.org/wikipedia/commons/c/ca/Funk_II_TRADOC.jpg {width=200px}
+[Gilday]: https://upload.wikimedia.org/wikipedia/commons/3/35/Gilday_CNO.jpg {width=200px}
+[Burke]: https://upload.wikimedia.org/wikipedia/commons/5/5c/Adm._Robert_P._Burke.jpg {width=200px}
+[Caldwell]: https://upload.wikimedia.org/wikipedia/commons/2/22/ADM_James_Caldwell_2015.jpg {width=200px}
+[Grady]: https://upload.wikimedia.org/wikipedia/commons/1/1e/ADM_Chris_Grady.jpg {width=200px}
+[Aquilino]: https://upload.wikimedia.org/wikipedia/commons/7/7b/ADM_Aquilino_2018.jpg {width=200px}
+[Foggo]: https://upload.wikimedia.org/wikipedia/commons/3/35/Admiral_Foggo_2017.jpg {width=200px}
+[Gilday]: https://upload.wikimedia.org/wikipedia/commons/e/ef/VICE_ADMIRAL_MICHAEL_GILDAY.jpg {width=200px}
+[Berger]: https://upload.wikimedia.org/wikipedia/commons/5/5c/Gen._David_H._Berger.jpg {width=200px}
+[Thomas]: https://upload.wikimedia.org/wikipedia/commons/f/f6/Gen._Gary_L._Thomas.jpg {width=200px}
+[Harrigian]: https://upload.wikimedia.org/wikipedia/commons/1/13/Gen._Jeffrey_L._Harrigian.jpg {width=200px}
+[Timothy_Ray]: https://upload.wikimedia.org/wikipedia/commons/c/c1/Gen._Timothy_M._Ray.jpg {width=200px}
+[Bunch]: https://upload.wikimedia.org/wikipedia/commons/3/37/Gen._Arnold_W._Bunch%2C_Jr.jpg {width=200px}
+[Wilson]: https://upload.wikimedia.org/wikipedia/commons/a/ac/General_Stephen_W._%E2%80%9CSeve%E2%80%9D_Wilson.jpg {width=200px}
+[Goldfein]: https://upload.wikimedia.org/wikipedia/commons/9/90/Goldfein_CSAF.jpg {width=200px}
+[Holmes]: https://upload.wikimedia.org/wikipedia/commons/d/d3/Holmes_ACC_2017.jpg {width=200px}
+[Raymond]: https://media.defense.gov/2019/Oct/23/2002199525/-1/-1/0/191023-D-ZZ999-031.JPG {width=200px}
+[Charles_Brown]: https://upload.wikimedia.org/wikipedia/commons/3/3d/Gen._Charles_Q._Brown%2C_Jr.jpg {width=200px}
+[Maryanne_Miller]: https://upload.wikimedia.org/wikipedia/commons/0/00/General_Maryanne_Miller_%28AMC%29.jpg {width=200px}
+[LaCamera]:https://upload.wikimedia.org/wikipedia/commons/3/37/General_LaCamera_2019.jpg {width=200px}
+[Schultz]:https://upload.wikimedia.org/wikipedia/commons/1/13/ADM_Schultz_2018.jpg {width=200px}
+[Charles_Ray]:https://upload.wikimedia.org/wikipedia/commons/7/77/Adm._Charles_W._Ray.jpg {width=200px}
+[Giroir]:https://upload.wikimedia.org/wikipedia/commons/d/da/ADM_Brett_P._Giroir%2C_USPHS.jpg {width=200px}
+[Daly]: https://upload.wikimedia.org/wikipedia/commons/6/64/Lt._Gen._Edward_M._Daly.jpg {width=200px}
+
+> 图片来源：维基公共，公用版权
+
